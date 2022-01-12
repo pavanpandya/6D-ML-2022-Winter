@@ -1,0 +1,10 @@
+Independent Feature used = Distance to the nearest MRT station
+Dependent Feature = House price of unit area
+
+Report:
+Intercept of the model = 46.24269005
+Slope of the model = -0.00740951
+R2 Score Value = 0.5389597665019769
+Mean Square Error 77.34399178518463
+
+Conclusion: 53.89% of the changeability of the dependent output attribute can be explained by the model.
